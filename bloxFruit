@@ -1,1 +1,3 @@
+-- [ Stiles SS ] ❘ Blox Fruis Script ❘ RTN Hub ❘ (2).txt
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WindowsXp12/rtnhub/main/bloxfruit.lua"))()
